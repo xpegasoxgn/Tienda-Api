@@ -6,6 +6,7 @@ builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
+builder.Services.AddScoped<Tienda.Datos.ProductoDatos>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

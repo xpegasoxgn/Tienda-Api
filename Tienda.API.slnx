@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Tienda.API/Tienda.API.csproj" />
+  <Project Path="Tienda.datos/Tienda.datos.csproj" Id="ba138d52-ad1c-4fee-bace-0549aef45a13" DisplayName="Tienda.Datos" />
   <Project Path="Tienda.Entidades/Tienda.Entidades.csproj" Id="5a1c5b35-cf94-451a-b74f-12aa44e8bf76" />
 </Solution>
